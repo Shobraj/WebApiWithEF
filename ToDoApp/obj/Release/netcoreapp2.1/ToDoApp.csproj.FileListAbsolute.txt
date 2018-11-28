@@ -1,0 +1,14 @@
+C:\Users\Shobharaj\Desktop\ToDoApp\ToDoApp\bin\Release\netcoreapp2.1\ToDoApp.deps.json
+C:\Users\Shobharaj\Desktop\ToDoApp\ToDoApp\bin\Release\netcoreapp2.1\ToDoApp.runtimeconfig.json
+C:\Users\Shobharaj\Desktop\ToDoApp\ToDoApp\bin\Release\netcoreapp2.1\ToDoApp.runtimeconfig.dev.json
+C:\Users\Shobharaj\Desktop\ToDoApp\ToDoApp\bin\Release\netcoreapp2.1\ToDoApp.dll
+C:\Users\Shobharaj\Desktop\ToDoApp\ToDoApp\bin\Release\netcoreapp2.1\ToDoApp.pdb
+C:\Users\Shobharaj\Desktop\ToDoApp\ToDoApp\obj\Release\netcoreapp2.1\ToDoApp.csprojAssemblyReference.cache
+C:\Users\Shobharaj\Desktop\ToDoApp\ToDoApp\obj\Release\netcoreapp2.1\ToDoApp.csproj.CoreCompileInputs.cache
+C:\Users\Shobharaj\Desktop\ToDoApp\ToDoApp\obj\Release\netcoreapp2.1\ToDoApp.RazorAssemblyInfo.cache
+C:\Users\Shobharaj\Desktop\ToDoApp\ToDoApp\obj\Release\netcoreapp2.1\ToDoApp.RazorAssemblyInfo.cs
+C:\Users\Shobharaj\Desktop\ToDoApp\ToDoApp\obj\Release\netcoreapp2.1\ToDoApp.AssemblyInfoInputs.cache
+C:\Users\Shobharaj\Desktop\ToDoApp\ToDoApp\obj\Release\netcoreapp2.1\ToDoApp.AssemblyInfo.cs
+C:\Users\Shobharaj\Desktop\ToDoApp\ToDoApp\obj\Release\netcoreapp2.1\ToDoApp.RazorTargetAssemblyInfo.cache
+C:\Users\Shobharaj\Desktop\ToDoApp\ToDoApp\obj\Release\netcoreapp2.1\ToDoApp.dll
+C:\Users\Shobharaj\Desktop\ToDoApp\ToDoApp\obj\Release\netcoreapp2.1\ToDoApp.pdb
